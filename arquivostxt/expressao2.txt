@@ -1,0 +1,7 @@
+6
+a45 \lor ( b \Rightarrow c )
+F \land b
+\lor
+a
+a \lor T
+\neg

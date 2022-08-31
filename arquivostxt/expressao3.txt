@@ -1,0 +1,5 @@
+4
+a45 \lor ( b \Rightarrow c)
+\neg \lor \lor F
+a \lor b
+\neg \neg
